@@ -1,5 +1,5 @@
 # Intro to git for DSPG
-- 'git init': initialize a repository
+- 'git init': initialize a repository, change to master branch
     - only type this once, do not 'nest' your repositories
 - 'git status': tells you what is going on
 *this* is italic, and **this is bold**
