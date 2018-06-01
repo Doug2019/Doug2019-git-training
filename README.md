@@ -10,5 +10,6 @@
 - use 'git branch my_branch_name' to create a new branch
 - use 'git checkout my_branch_name' to got o that branch
 - I made changes to this file to show the affects of a merge conflict
+-Making a change to this file, then gonna push the branch to github
 
 
