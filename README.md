@@ -9,5 +9,5 @@
 # branching in git
 - use 'git branch my_branch_name' to create a new branch
 - use 'git checkout my_branch_name' to got o that branch
--Edittin my second branch
+- I made changes to this file to show the affects of a merge conflict
 
