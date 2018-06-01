@@ -6,3 +6,7 @@
     -'git commit -m "message"': willl allow you to write
        a commit message in single line
 - edit this file however you want
+# branching in git
+- use 'git branch my_branch_name' to create a new branch
+- use 'git checkout my_branch_name' to got o that branch
+
