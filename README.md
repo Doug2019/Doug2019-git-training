@@ -5,3 +5,4 @@
 *this* is italic, and **this is bold**
     -'git commit -m "message"': willl allow you to write
        a commit message in single line
+- edit this file however you want
